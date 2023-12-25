@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222135992254",
+    "project_id": "freegpt-383ff",
+    "storage_bucket": "freegpt-383ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222135992254:android:7b42d7a8e2e7256e9903ef",
+        "android_client_info": {
+          "package_name": "com.psh.free_gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tsBd0cNtSldM9eqWQwIVFyxKB0WiEq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
